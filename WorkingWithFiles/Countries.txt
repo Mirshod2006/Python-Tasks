@@ -1,0 +1,198 @@
+1. Afghanistan: Capital - Kabul; Population - 40M; Area - 652K sq km; Currency - AFN; Language - Dari, Pashto; Map ID: 1234567890.
+2. Albania: Capital - Tirana; Population - 2.8M; Area - 28K sq km; Currency - ALL; Language - Albanian; Map ID: 2345678901.
+3. Algeria: Capital - Algiers; Population - 44M; Area - 2.4M sq km; Currency - DZD; Language - Arabic, Berber; Map ID: 3456789012.
+4. Andorra: Capital - Andorra la Vella; Population - 77K; Area - 468 sq km; Currency - Euro; Language - Catalan; Map ID: 4567890123.
+5. Angola: Capital - Luanda; Population - 34M; Area - 1.2M sq km; Currency - AOA; Language - Portuguese; Map ID: 5678901234.
+6. Argentina: Capital - Buenos Aires; Population - 45M; Area - 2.8M sq km; Currency - ARS; Language - Spanish; Map ID: 6789012345.
+7. Armenia: Capital - Yerevan; Population - 3M; Area - 29K sq km; Currency - AMD; Language - Armenian; Map ID: 7890123456.
+8. Australia: Capital - Canberra; Population - 26M; Area - 7.7M sq km; Currency - AUD; Language - English; Map ID: 8901234567.
+9. Austria: Capital - Vienna; Population - 9M; Area - 83K sq km; Currency - Euro; Language - German; Map ID: 9012345678.
+10. Azerbaijan: Capital - Baku; Population - 10M; Area - 86K sq km; Currency - AZN; Language - Azerbaijani; Map ID: 0123456789.
+11. Bahamas: Capital - Nassau; Population - 400K; Area - 13K sq km; Currency - BSD; Language - English; Map ID: 1023456789.
+12. Bahrain: Capital - Manama; Population - 1.8M; Area - 765 sq km; Currency - BHD; Language - Arabic; Map ID: 1123456789.
+13. Bangladesh: Capital - Dhaka; Population - 169M; Area - 148K sq km; Currency - BDT; Language - Bengali; Map ID: 1223456789.
+14. Barbados: Capital - Bridgetown; Population - 280K; Area - 430 sq km; Currency - BBD; Language - English; Map ID: 1323456789.
+15. Belarus: Capital - Minsk; Population - 9.3M; Area - 208K sq km; Currency - BYN; Language - Belarusian, Russian; Map ID: 1423456789.
+16. Belgium: Capital - Brussels; Population - 11M; Area - 30K sq km; Currency - Euro; Language - Dutch, French, German; Map ID: 1523456789.
+17. Belize: Capital - Belmopan; Population - 440K; Area - 23K sq km; Currency - BZD; Language - English; Map ID: 1623456789.
+18. Benin: Capital - Porto-Novo; Population - 13M; Area - 115K sq km; Currency - XOF; Language - French; Map ID: 1723456789.
+19. Bhutan: Capital - Thimphu; Population - 780K; Area - 38K sq km; Currency - BTN; Language - Dzongkha; Map ID: 1823456789.
+20. Bolivia: Capital - Sucre; Population - 12M; Area - 1.1M sq km; Currency - BOB; Language - Spanish, Quechua, Aymara; Map ID: 1923456789.
+21. Bosnia and Herzegovina: Capital - Sarajevo; Population - 3.3M; Area - 51K sq km; Currency - BAM; Language - Bosnian, Croatian, Serbian; Map ID: 2023456789.
+22. Botswana: Capital - Gaborone; Population - 2.6M; Area - 581K sq km; Currency - BWP; Language - English, Tswana; Map ID: 2123456789.
+23. Brazil: Capital - Brasília; Population - 213M; Area - 8.5M sq km; Currency - BRL; Language - Portuguese; Map ID: 2223456789.
+24. Brunei: Capital - Bandar Seri Begawan; Population - 440K; Area - 5.8K sq km; Currency - BND; Language - Malay; Map ID: 2323456789.
+25. Bulgaria: Capital - Sofia; Population - 6.8M; Area - 110K sq km; Currency - BGN; Language - Bulgarian; Map ID: 2423456789.
+26. Burkina Faso: Capital - Ouagadougou; Population - 22M; Area - 274K sq km; Currency - XOF; Language - French; Map ID: 2523456789.
+27. Burundi: Capital - Gitega; Population - 13M; Area - 28K sq km; Currency - BIF; Language - Kirundi, French; Map ID: 2623456789.
+28. Cambodia: Capital - Phnom Penh; Population - 17M; Area - 181K sq km; Currency - KHR; Language - Khmer; Map ID: 2723456789.
+29. Cameroon: Capital - Yaoundé; Population - 27M; Area - 475K sq km; Currency - XAF; Language - French, English; Map ID: 2823456789.
+30. Canada: Capital - Ottawa; Population - 38M; Area - 9.9M sq km; Currency - CAD; Language - English, French; Map ID: 2923456789.
+31. Cape Verde: Capital - Praia; Population - 560K; Area - 4K sq km; Currency - CVE; Language - Portuguese; Map ID: 3023456789.
+32. Central African Republic: Capital - Bangui; Population - 5.5M; Area - 623K sq km; Currency - XAF; Language - French, Sango; Map ID: 3123456789.
+33. Chad: Capital - N'Djamena; Population - 17M; Area - 1.3M sq km; Currency - XAF; Language - French, Arabic; Map ID: 3223456789.
+34. Chile: Capital - Santiago; Population - 19M; Area - 756K sq km; Currency - CLP; Language - Spanish; Map ID: 3323456789.
+35. China: Capital - Beijing; Population - 1.4B; Area - 9.6M sq km; Currency - CNY; Language - Mandarin; Map ID: 3423456789.
+36. Colombia: Capital - Bogotá; Population - 51M; Area - 1.1M sq km; Currency - COP; Language - Spanish; Map ID: 3523456789.
+37. Comoros: Capital - Moroni; Population - 870K; Area - 2.2K sq km; Currency - KMF; Language - Comorian, Arabic, French; Map ID: 3623456789.
+38. Congo (DRC): Capital - Kinshasa; Population - 102M; Area - 2.3M sq km; Currency - CDF; Language - French; Map ID: 3723456789.
+39. Congo (Republic): Capital - Brazzaville; Population - 5.7M; Area - 342K sq km; Currency - XAF; Language - French; Map ID: 3823456789.
+40. Costa Rica: Capital - San José; Population - 5.2M; Area - 51K sq km; Currency - CRC; Language - Spanish; Map ID: 3923456789.
+41. Croatia: Capital - Zagreb; Population - 4M; Area - 56K sq km; Currency - Euro; Language - Croatian; Map ID: 4023456789.
+42. Cuba: Capital - Havana; Population - 11M; Area - 110K sq km; Currency - CUP; Language - Spanish; Map ID: 4123456789.
+43. Cyprus: Capital - Nicosia; Population - 1.2M; Area - 9.3K sq km; Currency - Euro; Language - Greek, Turkish; Map ID: 4223456789.
+44. Czech Republic: Capital - Prague; Population - 10.7M; Area - 79K sq km; Currency - CZK; Language - Czech; Map ID: 4323456789.
+45. Denmark: Capital - Copenhagen; Population - 6M; Area - 43K sq km; Currency - DKK; Language - Danish; Map ID: 4423456789.
+46. Djibouti: Capital - Djibouti; Population - 1M; Area - 23K sq km; Currency - DJF; Language - French, Arabic; Map ID: 4523456789.
+47. Dominica: Capital - Roseau; Population - 70K; Area - 751 sq km; Currency - XCD; Language - English; Map ID: 4623456789.
+48. Dominican Republic: Capital - Santo Domingo; Population - 11M; Area - 48K sq km; Currency - DOP; Language - Spanish; Map ID: 4723456789.
+49. East Timor: Capital - Dili; Population - 1.3M; Area - 15K sq km; Currency - USD; Language - Tetum, Portuguese; Map ID: 4823456789.
+50. Ecuador: Capital - Quito; Population - 18M; Area - 256K sq km; Currency - USD; Language - Spanish; Map ID: 4923456789.
+51. Egypt: Capital - Cairo; Population - 109M; Area - 1M sq km; Currency - EGP; Language - Arabic; Map ID: 5023456789.
+52. El Salvador: Capital - San Salvador; Population - 6.5M; Area - 21K sq km; Currency - USD; Language - Spanish; Map ID: 5123456789.
+53. Equatorial Guinea: Capital - Malabo; Population - 1.5M; Area - 28K sq km; Currency - XAF; Language - Spanish, French, Portuguese; Map ID: 5223456789.
+54. Eritrea: Capital - Asmara; Population - 6M; Area - 117K sq km; Currency - ERN; Language - Tigrinya, Arabic, English; Map ID: 5323456789.
+55. Estonia: Capital - Tallinn; Population - 1.3M; Area - 45K sq km; Currency - Euro; Language - Estonian; Map ID: 5423456789.
+56. Eswatini: Capital - Mbabane; Population - 1.2M; Area - 17K sq km; Currency - SZL; Language - Swati, English; Map ID: 5523456789.
+57. Ethiopia: Capital - Addis Ababa; Population - 123M; Area - 1.1M sq km; Currency - ETB; Language - Amharic; Map ID: 5623456789.
+58. Fiji: Capital - Suva; Population - 930K; Area - 18K sq km; Currency - FJD; Language - English, Fijian; Map ID: 5723456789.
+59. Finland: Capital - Helsinki; Population - 5.5M; Area - 338K sq km; Currency - Euro; Language - Finnish, Swedish; Map ID: 5823456789.
+60. France: Capital - Paris; Population - 67M; Area - 551K sq km; Currency - Euro; Language - French; Map ID: 5923456789.
+61. Gabon: Capital - Libreville; Population - 2.3M; Area - 267K sq km; Currency - XAF; Language - French; Map ID: 6023456789.
+62. Gambia: Capital - Banjul; Population - 2.6M; Area - 11K sq km; Currency - GMD; Language - English; Map ID: 6123456789.
+63. Georgia: Capital - Tbilisi; Population - 4M; Area - 69K sq km; Currency - GEL; Language - Georgian; Map ID: 6223456789.
+64. Germany: Capital - Berlin; Population - 83M; Area - 357K sq km; Currency - Euro; Language - German; Map ID: 6323456789.
+65. Ghana: Capital - Accra; Population - 33M; Area - 239K sq km; Currency - GHS; Language - English; Map ID: 6423456789.
+66. Greece: Capital - Athens; Population - 10M; Area - 132K sq km; Currency - Euro; Language - Greek; Map ID: 6523456789.
+67. Grenada: Capital - St. George's; Population - 125K; Area - 344 sq km; Currency - XCD; Language - English; Map ID: 6623456789.
+68. Guatemala: Capital - Guatemala City; Population - 19M; Area - 109K sq km; Currency - GTQ; Language - Spanish; Map ID: 6723456789.
+69. Guinea: Capital - Conakry; Population - 14M; Area - 246K sq km; Currency - GNF; Language - French; Map ID: 6823456789.
+70. Guinea-Bissau: Capital - Bissau; Population - 2M; Area - 36K sq km; Currency - XOF; Language - Portuguese; Map ID: 6923456789.
+71. Guyana: Capital - Georgetown; Population - 800K; Area - 215K sq km; Currency - GYD; Language - English; Map ID: 7023456789.
+72. Haiti: Capital - Port-au-Prince; Population - 12M; Area - 27K sq km; Currency - HTG; Language - French, Haitian Creole; Map ID: 7123456789.
+73. Honduras: Capital - Tegucigalpa; Population - 10M; Area - 112K sq km; Currency - HNL; Language - Spanish; Map ID: 7223456789.
+74. Hungary: Capital - Budapest; Population - 9.6M; Area - 93K sq km; Currency - HUF; Language - Hungarian; Map ID: 7323456789.
+75. Iceland: Capital - Reykjavik; Population - 370K; Area - 103K sq km; Currency - ISK; Language - Icelandic; Map ID: 7423456789.
+76. India: Capital - New Delhi; Population - 1.4B; Area - 3.3M sq km; Currency - INR; Language - Hindi, English; Map ID: 7523456789.
+77. Indonesia: Capital - Jakarta; Population - 278M; Area - 1.9M sq km; Currency - IDR; Language - Indonesian; Map ID: 7623456789.
+78. Iran: Capital - Tehran; Population - 88M; Area - 1.6M sq km; Currency - IRR; Language - Persian; Map ID: 7723456789.
+79. Iraq: Capital - Baghdad; Population - 44M; Area - 438K sq km; Currency - IQD; Language - Arabic, Kurdish; Map ID: 7823456789.
+80. Ireland: Capital - Dublin; Population - 5M; Area - 70K sq km; Currency - Euro; Language - English, Irish; Map ID: 7923456789.
+81. Israel: Capital - Jerusalem; Population - 9M; Area - 22K sq km; Currency - ILS; Language - Hebrew, Arabic; Map ID: 8023456789.
+82. Italy: Capital - Rome; Population - 59M; Area - 301K sq km; Currency - Euro; Language - Italian; Map ID: 8123456789.
+83. Jamaica: Capital - Kingston; Population - 3M; Area - 11K sq km; Currency - JMD; Language - English; Map ID: 8223456789.
+84. Japan: Capital - Tokyo; Population - 126M; Area - 378K sq km; Currency - Yen; Language - Japanese; Map ID: 8323456789.
+85. Jordan: Capital - Amman; Population - 11M; Area - 89K sq km; Currency - JOD; Language - Arabic; Map ID: 8423456789.
+86. Kazakhstan: Capital - Astana; Population - 19M; Area - 2.7M sq km; Currency - KZT; Language - Kazakh, Russian; Map ID: 8523456789.
+87. Kenya: Capital - Nairobi; Population - 55M; Area - 580K sq km; Currency - KES; Language - English, Swahili; Map ID: 8623456789.
+88. Kiribati: Capital - South Tarawa; Population - 120K; Area - 811 sq km; Currency - AUD; Language - English, Gilbertese; Map ID: 8723456789.
+89. Kosovo: Capital - Pristina; Population - 1.8M; Area - 10.9K sq km; Currency - Euro; Language - Albanian, Serbian; Map ID: 8823456789.
+90. Kuwait: Capital - Kuwait City; Population - 4.4M; Area - 18K sq km; Currency - KWD; Language - Arabic; Map ID: 8923456789.
+91. Kyrgyzstan: Capital - Bishkek; Population - 7M; Area - 199K sq km; Currency - KGS; Language - Kyrgyz, Russian; Map ID: 9023456789.
+92. Laos: Capital - Vientiane; Population - 7.5M; Area - 237K sq km; Currency - LAK; Language - Lao; Map ID: 9123456789.
+93. Latvia: Capital - Riga; Population - 1.9M; Area - 65K sq km; Currency - Euro; Language - Latvian; Map ID: 9223456789.
+94. Lebanon: Capital - Beirut; Population - 6.8M; Area - 10K sq km; Currency - LBP; Language - Arabic, French; Map ID: 9323456789.
+95. Lesotho: Capital - Maseru; Population - 2.3M; Area - 30K sq km; Currency - LSL; Language - Sesotho, English; Map ID: 9423456789.
+96. Liberia: Capital - Monrovia; Population - 5.4M; Area - 111K sq km; Currency - LRD; Language - English; Map ID: 9523456789.
+97. Libya: Capital - Tripoli; Population - 7M; Area - 1.8M sq km; Currency - LYD; Language - Arabic; Map ID: 9623456789.
+98. Liechtenstein: Capital - Vaduz; Population - 39K; Area - 160 sq km; Currency - CHF; Language - German; Map ID: 9723456789.
+99. Lithuania: Capital - Vilnius; Population - 2.8M; Area - 65K sq km; Currency - Euro; Language - Lithuanian; Map ID: 9823456789.
+100. Luxembourg: Capital - Luxembourg City; Population - 645K; Area - 2.5K sq km; Currency - Euro; Language - Luxembourgish, French, German; Map ID: 9923456789.
+101. Madagascar: Capital - Antananarivo; Population - 30M; Area - 587K sq km; Currency - MGA; Language - Malagasy, French; Map ID: 0023456789.
+102. Malawi: Capital - Lilongwe; Population - 21M; Area - 118K sq km; Currency - MWK; Language - English, Chichewa; Map ID: 0123456789.
+103. Malaysia: Capital - Kuala Lumpur; Population - 34M; Area - 330K sq km; Currency - MYR; Language - Malay; Map ID: 0223456789.
+104. Maldives: Capital - Malé; Population - 540K; Area - 298 sq km; Currency - MVR; Language - Dhivehi; Map ID: 0323456789.
+105. Mali: Capital - Bamako; Population - 23M; Area - 1.2M sq km; Currency - XOF; Language - French; Map ID: 0423456789.
+106. Malta: Capital - Valletta; Population - 520K; Area - 316 sq km; Currency - Euro; Language - Maltese, English; Map ID: 0523456789.
+107. Marshall Islands: Capital - Majuro; Population - 59K; Area - 181 sq km; Currency - USD; Language - English, Marshallese; Map ID: 0623456789.
+108. Mauritania: Capital - Nouakchott; Population - 5M; Area - 1M sq km; Currency - MRU; Language - Arabic; Map ID: 0723456789.
+109. Mauritius: Capital - Port Louis; Population - 1.3M; Area - 2K sq km; Currency - MUR; Language - English, French; Map ID: 0823456789.
+110. Mexico: Capital - Mexico City; Population - 129M; Area - 1.9M sq km; Currency - MXN; Language - Spanish; Map ID: 0923456789.
+111. Micronesia: Capital - Palikir; Population - 115K; Area - 702 sq km; Currency - USD; Language - English; Map ID: 1023456789.
+112. Moldova: Capital - Chișinău; Population - 2.6M; Area - 34K sq km; Currency - MDL; Language - Romanian; Map ID: 1123456789.
+113. Monaco: Capital - Monaco; Population - 40K; Area - 2 sq km; Currency - Euro; Language - French; Map ID: 1223456789.
+114. Mongolia: Capital - Ulaanbaatar; Population - 3.4M; Area - 1.6M sq km; Currency - MNT; Language - Mongolian; Map ID: 1323456789.
+115. Montenegro: Capital - Podgorica; Population - 620K; Area - 14K sq km; Currency - Euro; Language - Montenegrin; Map ID: 1423456789.
+116. Morocco: Capital - Rabat; Population - 38M; Area - 710K sq km; Currency - MAD; Language - Arabic, Berber; Map ID: 1523456789.
+117. Mozambique: Capital - Maputo; Population - 34M; Area - 801K sq km; Currency - MZN; Language - Portuguese; Map ID: 1623456789.
+118. Myanmar: Capital - Naypyidaw; Population - 56M; Area - 676K sq km; Currency - MMK; Language - Burmese; Map ID: 1723456789.
+119. Namibia: Capital - Windhoek; Population - 2.6M; Area - 825K sq km; Currency - NAD; Language - English; Map ID: 1823456789.
+120. Nauru: Capital - Yaren; Population - 11K; Area - 21 sq km; Currency - AUD; Language - Nauruan, English; Map ID: 1923456789.
+121. Nepal: Capital - Kathmandu; Population - 31M; Area - 147K sq km; Currency - NPR; Language - Nepali; Map ID: 2023456789.
+122. Netherlands: Capital - Amsterdam; Population - 17M; Area - 41K sq km; Currency - Euro; Language - Dutch; Map ID: 2123456789.
+123. New Zealand: Capital - Wellington; Population - 5M; Area - 268K sq km; Currency - NZD; Language - English, Māori; Map ID: 2223456789.
+124. Nicaragua: Capital - Managua; Population - 7M; Area - 130K sq km; Currency - NIO; Language - Spanish; Map ID: 2323456789.
+125. Niger: Capital - Niamey; Population - 28M; Area - 1.3M sq km; Currency - XOF; Language - French; Map ID: 2423456789.
+126. Nigeria: Capital - Abuja; Population - 227M; Area - 923K sq km; Currency - NGN; Language - English; Map ID: 2523456789.
+127. North Korea: Capital - Pyongyang; Population - 26M; Area - 120K sq km; Currency - KPW; Language - Korean; Map ID: 2623456789.
+128. North Macedonia: Capital - Skopje; Population - 2.1M; Area - 25K sq km; Currency - MKD; Language - Macedonian; Map ID: 2723456789.
+129. Norway: Capital - Oslo; Population - 5.4M; Area - 385K sq km; Currency - NOK; Language - Norwegian; Map ID: 2823456789.
+130. Oman: Capital - Muscat; Population - 5.5M; Area - 310K sq km; Currency - OMR; Language - Arabic; Map ID: 2923456789.
+131. Pakistan: Capital - Islamabad; Population - 242M; Area - 881K sq km; Currency - PKR; Language - Urdu, English; Map ID: 3023456789.
+132. Palau: Capital - Ngerulmud; Population - 18K; Area - 459 sq km; Currency - USD; Language - Palauan, English; Map ID: 3123456789.
+133. Palestine: Capital - East Jerusalem; Population - 5.5M; Area - 6K sq km; Currency - ILS; Language - Arabic; Map ID: 3223456789.
+134. Panama: Capital - Panama City; Population - 4.5M; Area - 75K sq km; Currency - PAB, USD; Language - Spanish; Map ID: 3323456789.
+135. Papua New Guinea: Capital - Port Moresby; Population - 10.4M; Area - 462K sq km; Currency - PGK; Language - English, Tok Pisin; Map ID: 3423456789.
+136. Paraguay: Capital - Asunción; Population - 7.5M; Area - 406K sq km; Currency - PYG; Language - Spanish, Guarani; Map ID: 3523456789.
+137. Peru: Capital - Lima; Population - 34M; Area - 1.3M sq km; Currency - PEN; Language - Spanish; Map ID: 3623456789.
+138. Philippines: Capital - Manila; Population - 117M; Area - 300K sq km; Currency - PHP; Language - Filipino, English; Map ID: 3723456789.
+139. Poland: Capital - Warsaw; Population - 38M; Area - 313K sq km; Currency - PLN; Language - Polish; Map ID: 3823456789.
+140. Portugal: Capital - Lisbon; Population - 10M; Area - 92K sq km; Currency - Euro; Language - Portuguese; Map ID: 3923456789.
+141. Qatar: Capital - Doha; Population - 3M; Area - 11K sq km; Currency - QAR; Language - Arabic; Map ID: 4023456789.
+142. Romania: Capital - Bucharest; Population - 18M; Area - 238K sq km; Currency - RON; Language - Romanian; Map ID: 4123456789.
+143. Russia: Capital - Moscow; Population - 146M; Area - 17M sq km; Currency - RUB; Language - Russian; Map ID: 4223456789.
+144. Rwanda: Capital - Kigali; Population - 14M; Area - 26K sq km; Currency - RWF; Language - Kinyarwanda, French, English; Map ID: 4323456789.
+145. Saint Kitts and Nevis: Capital - Basseterre; Population - 53K; Area - 261 sq km; Currency - XCD; Language - English; Map ID: 4423456789.
+146. Saint Lucia: Capital - Castries; Population - 185K; Area - 617 sq km; Currency - XCD; Language - English; Map ID: 4523456789.
+147. Saint Vincent and the Grenadines: Capital - Kingstown; Population - 111K; Area - 389 sq km; Currency - XCD; Language - English; Map ID: 4623456789.
+148. Samoa: Capital - Apia; Population - 225K; Area - 2.8K sq km; Currency - WST; Language - Samoan, English; Map ID: 4723456789.
+149. San Marino: Capital - San Marino; Population - 34K; Area - 61 sq km; Currency - Euro; Language - Italian; Map ID: 4823456789.
+150. São Tomé and Príncipe: Capital - São Tomé; Population - 230K; Area - 964 sq km; Currency - STN; Language - Portuguese; Map ID: 4923456789.
+151. Saudi Arabia: Capital - Riyadh; Population - 36M; Area - 2.1M sq km; Currency - SAR; Language - Arabic; Map ID: 5023456789.
+152. Senegal: Capital - Dakar; Population - 18M; Area - 197K sq km; Currency - XOF; Language - French; Map ID: 5123456789.
+153. Serbia: Capital - Belgrade; Population - 6.7M; Area - 88K sq km; Currency - RSD; Language - Serbian; Map ID: 5223456789.
+154. Seychelles: Capital - Victoria; Population - 100K; Area - 459 sq km; Currency - SCR; Language - English, French, Seychellois Creole; Map ID: 5323456789.
+155. Sierra Leone: Capital - Freetown; Population - 8.4M; Area - 72K sq km; Currency - SLL; Language - English; Map ID: 5423456789.
+156. Singapore: Capital - Singapore; Population - 5.6M; Area - 728 sq km; Currency - SGD; Language - English, Malay, Mandarin, Tamil; Map ID: 5523456789.
+157. Slovakia: Capital - Bratislava; Population - 5.4M; Area - 49K sq km; Currency - Euro; Language - Slovak; Map ID: 5623456789.
+158. Slovenia: Capital - Ljubljana; Population - 2.1M; Area - 20K sq km; Currency - Euro; Language - Slovenian; Map ID: 5723456789.
+159. Solomon Islands: Capital - Honiara; Population - 700K; Area - 28K sq km; Currency - SBD; Language - English; Map ID: 5823456789.
+160. Somalia: Capital - Mogadishu; Population - 18M; Area - 637K sq km; Currency - SOS; Language - Somali, Arabic; Map ID: 5923456789.
+161. South Africa: Capital - Pretoria; Population - 61M; Area - 1.2M sq km; Currency - ZAR; Language - 11 official languages including English, Afrikaans; Map ID: 6023456789.
+162. South Korea: Capital - Seoul; Population - 52M; Area - 100K sq km; Currency - KRW; Language - Korean; Map ID: 6123456789.
+163. South Sudan: Capital - Juba; Population - 13M; Area - 619K sq km; Currency - SSP; Language - English; Map ID: 6223456789.
+164. Spain: Capital - Madrid; Population - 47M; Area - 505K sq km; Currency - Euro; Language - Spanish; Map ID: 6323456789.
+165. Sri Lanka: Capital - Sri Jayawardenepura Kotte; Population - 22M; Area - 65K sq km; Currency - LKR; Language - Sinhala, Tamil; Map ID: 6423456789.
+166. Sudan: Capital - Khartoum; Population - 48M; Area - 1.9M sq km; Currency - SDG; Language - Arabic, English; Map ID: 6523456789.
+167. Suriname: Capital - Paramaribo; Population - 610K; Area - 163K sq km; Currency - SRD; Language - Dutch; Map ID: 6623456789.
+168. Sweden: Capital - Stockholm; Population - 10M; Area - 450K sq km; Currency - SEK; Language - Swedish; Map ID: 6723456789.
+169. Switzerland: Capital - Bern; Population - 8.7M; Area - 41K sq km; Currency - CHF; Language - German, French, Italian, Romansh; Map ID: 6823456789.
+170. Syria: Capital - Damascus; Population - 22M; Area - 185K sq km; Currency - SYP; Language - Arabic; Map ID: 6923456789.
+171. Taiwan: Capital - Taipei; Population - 24M; Area - 36K sq km; Currency - TWD; Language - Mandarin; Map ID: 7023456789.
+172. Tajikistan: Capital - Dushanbe; Population - 10M; Area - 143K sq km; Currency - TJS; Language - Tajik; Map ID: 7123456789.
+173. Tanzania: Capital - Dodoma; Population - 67M; Area - 947K sq km; Currency - TZS; Language - Swahili, English; Map ID: 7223456789.
+174. Thailand: Capital - Bangkok; Population - 71M; Area - 513K sq km; Currency - THB; Language - Thai; Map ID: 7323456789.
+175. Timor-Leste: Capital - Dili; Population - 1.4M; Area - 15K sq km; Currency - USD; Language - Portuguese, Tetum; Map ID: 7423456789.
+176. Togo: Capital - Lomé; Population - 9M; Area - 57K sq km; Currency - XOF; Language - French; Map ID: 7523456789.
+177. Tonga: Capital - Nukuʻalofa; Population - 105K; Area - 747 sq km; Currency - TOP; Language - Tongan, English; Map ID: 7623456789.
+178. Trinidad and Tobago: Capital - Port of Spain; Population - 1.4M; Area - 5K sq km; Currency - TTD; Language - English; Map ID: 7723456789.
+179. Tunisia: Capital - Tunis; Population - 12M; Area - 164K sq km; Currency - TND; Language - Arabic; Map ID: 7823456789.
+180. Turkey: Capital - Ankara; Population - 87M; Area - 783K sq km; Currency - TRY; Language - Turkish; Map ID: 7923456789.
+181. Turkmenistan: Capital - Ashgabat; Population - 6M; Area - 491K sq km; Currency - TMT; Language - Turkmen; Map ID: 8023456789.
+182. Tuvalu: Capital - Funafuti; Population - 12K; Area - 26 sq km; Currency - AUD; Language - Tuvaluan, English; Map ID: 8123456789.
+183. Uganda: Capital - Kampala; Population - 48M; Area - 241K sq km; Currency - UGX; Language - English, Swahili; Map ID: 8223456789.
+184. Ukraine: Capital - Kyiv; Population - 41M; Area - 603K sq km; Currency - UAH; Language - Ukrainian; Map ID: 8323456789.
+185. United Arab Emirates: Capital - Abu Dhabi; Population - 10.5M; Area - 83K sq km; Currency - AED; Language - Arabic; Map ID: 8423456789.
+186. United Kingdom: Capital - London; Population - 67M; Area - 243K sq km; Currency - GBP; Language - English; Map ID: 8523456789.
+187. United States: Capital - Washington, D.C.; Population - 337M; Area - 9.8M sq km; Currency - USD; Language - English; Map ID: 8623456789.
+188. Uruguay: Capital - Montevideo; Population - 3.5M; Area - 176K sq km; Currency - UYU; Language - Spanish; Map ID: 8723456789.
+189. Uzbekistan: Capital - Tashkent; Population - 36M; Area - 448K sq km; Currency - UZS; Language - Uzbek; Map ID: 8823456789.
+190. Vanuatu: Capital - Port Vila; Population - 320K; Area - 12K sq km; Currency - VUV; Language - Bislama, English, French; Map ID: 8923456789.
+191. Vatican City: Capital - Vatican City; Population - 800; Area - 0.44 sq km; Currency - Euro; Language - Italian, Latin; Map ID: 9023456789.
+192. Venezuela: Capital - Caracas; Population - 33M; Area - 916K sq km; Currency - VES; Language - Spanish; Map ID: 9123456789.
+193. Vietnam: Capital - Hanoi; Population - 101M; Area - 331K sq km; Currency - VND; Language - Vietnamese; Map ID: 9223456789.
+194. Yemen: Capital - Sana'a; Population - 34M; Area - 528K sq km; Currency - YER; Language - Arabic; Map ID: 9323456789.
+195. Zambia: Capital - Lusaka; Population - 21M; Area - 753K sq km; Currency - ZMW; Language - English; Map ID: 9423456789.
+196. Zimbabwe: Capital - Harare; Population - 18M; Area - 391K sq km; Currency - ZWL; Language - English, Shona, Ndebele; Map ID: 9523456789.
+200. Ottoman: Capital - Berlin; Population - 100M; Area - 852K sq km; Currency - EURO; Language - Dutch; Map ID: 6274537810.
+201. Soviet Union Capital - Moscow; Population - 300M; Area - 2852K sq km; Currency - RUB; Language - Russian; Map ID: 5174237913.
